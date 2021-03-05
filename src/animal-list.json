@@ -1,0 +1,58 @@
+[
+    {
+        "name":"Dolly",
+        "species":"Sheep",
+        "years":"1996",
+        "description":"Dolly was the first successfully cloned mammal from an adult cell using the somatic cell nuclear transfer technique. She was apparently named after Dolly Parton's breasts, as the cell she was derived from was from a mammary gland.",
+        "image":["dolly-the-sheep.jpg"]
+    },
+    {
+        "name":"Ham",
+        "species":"Chimpanzee",
+        "years":"1961",
+        "description":"Ham was the first non-human hominid to go to space. He was also the first animal to return alive. He was only given a name after his return, due to officials fearing bad press from the death of a 'named' chimpanzee if the mission failed.",
+        "image":["ham-the-chimp.jpg"]
+    },
+    {
+        "name":"Huberta",
+        "species":"Hippopotamus",
+        "years":"1928",
+        "description":"Huberta was famous for deciding to travel 1600km or 1000mi across South Africa. Legends began to circulate that she was the reincarnation of different warriors or chiefs and 'Protector of the Poor'. In total, her escapade filled journey lasted 3 years.",
+        "image":["huberta-the-hippo.png"]
+    },
+    {
+        "name":"Cher Ami",
+        "species":"Pigeon",
+        "years":"1918",
+        "description":"Cher Ami saved a battalion of U.S. soldiers during WWI after being shot. Despite severe injuries, she got back up and carried on the message, part of it exasperatedly (and hilariously) reading '...Our own artillery is dropping a barrage directly on us. For heavens sake stop it.'",
+        "image":["cher-ami-the-pigeon.jpeg"]
+    },
+    {
+        "name":"Roselle",
+        "species":"Labrador Retriever",
+        "years":"2001",
+        "description":"Roselle the guide dog saved her owner and several others, navigating them out of the Twin Towers on the event of 9/11. She was very calm and helped others, including the firefighters passing them on the stairs, to stay strong and focus on evacuation.",
+        "image":["roselle-the-guide.jpg"]
+    },
+    {
+        "name":"Smoky",
+        "species":"Yorkshire Terrier",
+        "years":"1944",
+        "description":"Smoky enabled American soldiers to communicate during WWII by running telephone lines through an underground pipe. She was also the first recorded therapy dog, and saved many lives during the war, both physically and mentally.",
+        "image":["smoky-therapy.jpg"]
+    },
+    {
+        "name":"Jim the Wonder Dog",
+        "species":"Llewellin Setter",
+        "years":"1930s",
+        "description":"Jim was famous due to uncanny psychic abilities and extreme intellect. Notable examples are understanding instructions in any foreign language, locating a car by license number, make, and color, and making a notable amount of accurate predictions.",
+        "image":["jim-the-psychic.jpg"]
+    },
+    {
+        "name":"Unsinkable Sam",
+        "species":"Cat",
+        "years":"1941",
+        "description":"Sam survived three separate ship wrecks during WWII. He was originally given the name Oscar by the crew that rescued him from his first wreck, being derived from the International Code of Signals for 'Man Overboard' and renamed 'Unsinkable Sam' after surviving his second wreck.",
+        "image":["unsinkable-sam.jpg"]
+    }
+]

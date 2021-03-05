@@ -1,0 +1,14 @@
+.Card {
+    width: 100%;
+    text-align: center;
+}
+.Card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px 1px #282828b8, -1px -1px 10px 1px #282828b8;
+}
+.Card h2 {
+    font-family: 'Condiment';
+    font-size: 30px;
+}
