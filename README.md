@@ -14,4 +14,4 @@ This project is taking a moment to share a little about some of history's most f
 
 - https://www.jstor.org/stable/41056519?seq=1
 
-* images from wikipedia and google *
+*images from wikipedia and google*
